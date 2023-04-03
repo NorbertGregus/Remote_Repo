@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='ConversionLogFile.xsl'?>
+<LogFile projectName="Linie_reciclare_paleti_V16" typeText="Type" messageText="Message" timeText="Time">
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="8/2/2021 12:21:05 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Upgrade started" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <Details ServiceId="80" MessageId="30" Timestamp="8/2/2021 12:21:09 PM" Debug="false">
+    <Text>Reorganization succeed!</Text>
+  </Details>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="8/2/2021 12:21:09 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="CheckRepair lost+found objects" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <Details ServiceId="80" MessageId="30" Timestamp="8/2/2021 12:21:18 PM" Debug="false">
+    <Text>No error is detected.</Text>
+  </Details>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="8/2/2021 12:21:19 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="CheckRepair missing bidirectional links" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <Details ServiceId="80" MessageId="30" Timestamp="8/2/2021 12:21:19 PM" Debug="false">
+    <Text>No error is detected.</Text>
+  </Details>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="8/2/2021 12:21:20 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="CheckRepair clear segment flags" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <Details ServiceId="80" MessageId="30" Timestamp="8/2/2021 12:21:21 PM" Debug="false">
+    <Text>No error is detected.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="8/2/2021 12:22:20 PM" Debug="false">
+    <Text>HmiConvert: Started conversion section.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="8/2/2021 12:22:20 PM" Debug="false">
+    <Text>HmiConvert: Starting conversion step &lt;Siemens.Simatic.Hmi.Device.DeviceManagers.Scan:Siemens.Simatic.Hmi.Utah.Device.Upgrade.DeviceConverter.ConvertHmiDeviceToV16&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="8/2/2021 12:22:21 PM" Debug="false">
+    <Text>HmiConvert: Finished conversion step &lt;Siemens.Simatic.Hmi.Device.DeviceManagers.Scan:Siemens.Simatic.Hmi.Utah.Device.Upgrade.DeviceConverter.ConvertHmiDeviceToV16&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="8/2/2021 12:22:21 PM" Debug="false">
+    <Text>HmiConvert: Starting conversion step &lt;Siemens.Simatic.Hmi.Globalization.Managers.Scan:Siemens.Simatic.Hmi.Utah.Globalization.HmiTextDataCategoryNameConvert.RepairTextCategoryName&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="8/2/2021 12:22:22 PM" Debug="false">
+    <Text>HmiConvert: Finished conversion step &lt;Siemens.Simatic.Hmi.Globalization.Managers.Scan:Siemens.Simatic.Hmi.Utah.Globalization.HmiTextDataCategoryNameConvert.RepairTextCategoryName&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="8/2/2021 12:22:22 PM" Debug="false">
+    <Text>HmiConvert: Starting conversion step &lt;Siemens.Simatic.Hmi.BL.ModernUI:Siemens.Simatic.Hmi.BL.ModernUI.Convert.ScreenItemPhaseConverter.AdaptModel&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="8/2/2021 12:22:22 PM" Debug="false">
+    <Text>HmiConvert: Finished conversion step &lt;Siemens.Simatic.Hmi.BL.ModernUI:Siemens.Simatic.Hmi.BL.ModernUI.Convert.ScreenItemPhaseConverter.AdaptModel&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="8/2/2021 12:22:22 PM" Debug="false">
+    <Text>HmiConvert: Starting conversion step &lt;Siemens.Simatic.Hmi.Styles.Managers.Scan:Siemens.Simatic.Hmi.Utah.Styles.HmiStyleConverter.ConvertHmiStyleFromV151ToV16&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="8/2/2021 12:22:23 PM" Debug="false">
+    <Text>HmiConvert: Finished conversion step &lt;Siemens.Simatic.Hmi.Styles.Managers.Scan:Siemens.Simatic.Hmi.Utah.Styles.HmiStyleConverter.ConvertHmiStyleFromV151ToV16&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="8/2/2021 12:22:23 PM" Debug="false">
+    <Text>HmiConvert: Starting conversion step &lt;Siemens.Simatic.Hmi.BL.ILStyles:Siemens.Simatic.Hmi.BL.ILStyles.Convert.StyleConverter.ConvertStyle&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="8/2/2021 12:22:24 PM" Debug="false">
+    <Text>HmiConvert: Finished conversion step &lt;Siemens.Simatic.Hmi.BL.ILStyles:Siemens.Simatic.Hmi.BL.ILStyles.Convert.StyleConverter.ConvertStyle&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="8/2/2021 12:22:24 PM" Debug="false">
+    <Text>HmiConvert: Starting conversion step &lt;Siemens.Simatic.Hmi.Communication.Managers.Scan:Siemens.Simatic.Hmi.Utah.Communication.HmiConnectionAutoRepairer.HmiConnectionAutoRepairs&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="8/2/2021 12:22:24 PM" Debug="false">
+    <Text>HmiConvert: Finished conversion step &lt;Siemens.Simatic.Hmi.Communication.Managers.Scan:Siemens.Simatic.Hmi.Utah.Communication.HmiConnectionAutoRepairer.HmiConnectionAutoRepairs&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="8/2/2021 12:22:24 PM" Debug="false">
+    <Text>HmiConvert: Starting conversion step &lt;Siemens.Simatic.Hmi.BL.Scripting.Scan:Siemens.Simatic.Hmi.BL.Scripting.Migrations.ModuleConverter.ModuleRepair&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="8/2/2021 12:22:24 PM" Debug="false">
+    <Text>HmiConvert: Finished conversion step &lt;Siemens.Simatic.Hmi.BL.Scripting.Scan:Siemens.Simatic.Hmi.BL.Scripting.Migrations.ModuleConverter.ModuleRepair&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="8/2/2021 12:22:24 PM" Debug="false">
+    <Text>HmiConvert: Starting conversion step &lt;Siemens.Simatic.Hmi.GraphX.GraphXManagers.Scan:Siemens.Simatic.Hmi.Utah.GraphX.ChainedListConverter.ConvertFixScreenChainedList&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="8/2/2021 12:22:24 PM" Debug="false">
+    <Text>HmiConvert: Finished conversion step &lt;Siemens.Simatic.Hmi.GraphX.GraphXManagers.Scan:Siemens.Simatic.Hmi.Utah.GraphX.ChainedListConverter.ConvertFixScreenChainedList&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="8/2/2021 12:22:24 PM" Debug="false">
+    <Text>HmiConvert: Starting conversion step &lt;Siemens.Simatic.Hmi.GraphX.GraphXManagers.Scan:Siemens.Simatic.Hmi.Utah.GraphX.PhaseConverter.RepairPointsCollectionOfScreenItems&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="8/2/2021 12:22:24 PM" Debug="false">
+    <Text>HmiConvert: Finished conversion step &lt;Siemens.Simatic.Hmi.GraphX.GraphXManagers.Scan:Siemens.Simatic.Hmi.Utah.GraphX.PhaseConverter.RepairPointsCollectionOfScreenItems&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="8/2/2021 12:22:24 PM" Debug="false">
+    <Text>HmiConvert: Starting conversion step &lt;Siemens.Automation.Simatic.CPM.HMI:Siemens.Simatic.Hmi.BL.Cpm.Convert.V151ToV16.PlantModelConverter.ConvertPlantModel&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="8/2/2021 12:22:24 PM" Debug="false">
+    <Text>HmiConvert: Finished conversion step &lt;Siemens.Automation.Simatic.CPM.HMI:Siemens.Simatic.Hmi.BL.Cpm.Convert.V151ToV16.PlantModelConverter.ConvertPlantModel&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="8/2/2021 12:22:24 PM" Debug="false">
+    <Text>HmiConvert: Starting conversion step &lt;Siemens.Simatic.Hmi.RuntimeIT.Managers.Scan:Siemens.Simatic.Hmi.Utah.RTSecurity.Upgrade.HmiRtSecurityRepair.RepairRtUserPasswordHash&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="8/2/2021 12:22:24 PM" Debug="false">
+    <Text>HmiConvert: Finished conversion step &lt;Siemens.Simatic.Hmi.RuntimeIT.Managers.Scan:Siemens.Simatic.Hmi.Utah.RTSecurity.Upgrade.HmiRtSecurityRepair.RepairRtUserPasswordHash&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="8/2/2021 12:22:24 PM" Debug="false">
+    <Text>HmiConvert: Starting conversion step &lt;Siemens.Simatic.Hmi.Globalization.Managers.Scan:Siemens.Simatic.Hmi.Utah.Globalization.TextRepairForConvert.TextsRepairInHmiBusinessLogicLevel&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="8/2/2021 12:22:25 PM" Debug="false">
+    <Text>HmiConvert: Finished conversion step &lt;Siemens.Simatic.Hmi.Globalization.Managers.Scan:Siemens.Simatic.Hmi.Utah.Globalization.TextRepairForConvert.TextsRepairInHmiBusinessLogicLevel&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="8/2/2021 12:22:25 PM" Debug="false">
+    <Text>HmiConvert is waiting for external dependency: Siemens.Simatic.Lang.SPLConvert</Text>
+  </Details>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="8/2/2021 12:22:49 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Project element: '\PLC_1\ProgramBlocksFolder\1_OB\Main' - Checksum inconsistency for 'General; Event'." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="8/2/2021 12:22:49 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Project element: '\PLC_1\ProgramBlocksFolder\2_FC\FC21_G7_GEMMA' - Checksum inconsistency for 'General'." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="8/2/2021 12:22:50 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Project element: '\PLC_1\ProgramBlocksFolder\2_FC\FC22_G7_RUN' - Checksum inconsistency for 'General'." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="8/2/2021 12:22:50 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Project element: '\PLC_1\ProgramBlocksFolder\2_FC\FC2_WORK_BITS' - Checksum inconsistency for 'General'." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="8/2/2021 12:22:52 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Project element: '\PLC_1\ProgramBlocksFolder\2_FC\FC3_FAULTS' - Checksum inconsistency for 'General'." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="8/2/2021 12:22:52 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Project element: '\PLC_1\ProgramBlocksFolder\2_FC\FC6_OUTPUTS' - Checksum inconsistency for 'General'." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="8/2/2021 12:22:52 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Project element: '\PLC_1\ProgramBlocksFolder\2_FC\FC20_HMI' - Checksum inconsistency for 'General'." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="8/2/2021 12:22:52 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Project element: '\PLC_1\ProgramBlocksFolder\4_FBD\FB1_DRIVE' - Checksum inconsistency for 'General'." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="8/2/2021 12:22:52 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Project element: '\PLC_1\ProgramBlocksFolder\1_OB\OB82_I/O_FLT' - Checksum inconsistency for 'General; Event'." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="8/2/2021 12:22:52 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Project element: '\PLC_1\ProgramBlocksFolder\1_OB\OB100_COMPLETE_RESTART' - Checksum inconsistency for 'General; Event'." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="8/2/2021 12:22:52 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Project element: '\PLC_1\ProgramBlocksFolder\2_FC\FC50_PALLET_LENGTH' - Checksum inconsistency for 'General'." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="8/2/2021 12:22:58 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Project element: '\PLC_1\ProgramBlocksFolder\3_DB\DB120_GRAFCETS' - Checksum inconsistency for 'General'." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="8/2/2021 12:22:58 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Project element: '\PLC_1\ProgramBlocksFolder\3_DB\DB121_GRAFCETS_COPY' - Checksum inconsistency for 'General'." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="8/2/2021 12:22:58 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Project element: '\PLC_1\ProgramBlocksFolder\3_DB\DB2_WORK_BITS' - Checksum inconsistency for 'General'." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="8/2/2021 12:22:58 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Project element: '\PLC_1\ProgramBlocksFolder\3_DB\DB3_FAULTS' - Checksum inconsistency for 'General'." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="8/2/2021 12:22:58 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Project element: '\PLC_1\ProgramBlocksFolder\3_DB\DB29_SECU_OUT' - Checksum inconsistency for 'General'." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="8/2/2021 12:22:58 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Project element: '\PLC_1\ProgramBlocksFolder\3_DB\DB20_DATA_HMI' - Checksum inconsistency for 'General'." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="8/2/2021 12:22:58 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Project element: '\PLC_1\ProgramBlocksFolder\3_DB\DB50_PALLET_LENGTH' - Checksum inconsistency for 'General'." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="8/2/2021 12:22:58 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Project element: '\PLC_1\ProgramBlocksFolder\3_DB\DB200_SAFETY' - Checksum inconsistency for 'General'." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="8/2/2021 12:22:58 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Project element: '\PLC_1\ControllerDataTypeFolder\IF_AL2230_AL2330' - Checksum inconsistency for 'General'." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="8/2/2021 12:22:58 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Project element: '\PLC_1\ControllerDataTypeFolder\IF_AL2401' - Checksum inconsistency for 'General'." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="8/2/2021 12:22:58 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Project element: '\PLC_1\ControllerDataTypeFolder\OP_Int' - Checksum inconsistency for 'General'." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="8/2/2021 12:22:58 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Project element: '\PLC_1\ControllerDataTypeFolder\PQI_IF' - Checksum inconsistency for 'General'." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <Details ServiceId="80" MessageId="30" Timestamp="8/2/2021 12:23:00 PM" Debug="false">
+    <Text>HmiConvert: Started conversion section.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="8/2/2021 12:23:00 PM" Debug="false">
+    <Text>HmiConvert: Starting conversion step &lt;Siemens.Simatic.Hmi.Tag.Managers.Scan:Siemens.Simatic.Hmi.Utah.Tag.RootTagConvertSynchronization.ResynchronizeRootTag&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="8/2/2021 12:23:00 PM" Debug="false">
+    <Text>HmiConvert: Finished conversion step &lt;Siemens.Simatic.Hmi.Tag.Managers.Scan:Siemens.Simatic.Hmi.Utah.Tag.RootTagConvertSynchronization.ResynchronizeRootTag&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="8/2/2021 12:23:00 PM" Debug="false">
+    <Text>HmiConvert: Starting conversion step &lt;Siemens.Simatic.Hmi.Alarm.Managers.Scan:Siemens.Simatic.Hmi.Utah.Alarm.AlarmDataConverterWithHmiBl.ConvertExistingUserDefinedCommonAndSystemAlarmClasses&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="8/2/2021 12:23:00 PM" Debug="false">
+    <Text>HmiConvert: Finished conversion step &lt;Siemens.Simatic.Hmi.Alarm.Managers.Scan:Siemens.Simatic.Hmi.Utah.Alarm.AlarmDataConverterWithHmiBl.ConvertExistingUserDefinedCommonAndSystemAlarmClasses&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="8/2/2021 12:23:00 PM" Debug="false">
+    <Text>HmiConvert: Starting conversion step &lt;Siemens.Simatic.Hmi.BL.Logging.Scan:Siemens.Simatic.Hmi.BL.Logging.Convert.LogConverter.Convert&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="8/2/2021 12:23:00 PM" Debug="false">
+    <Text>HmiConvert: Finished conversion step &lt;Siemens.Simatic.Hmi.BL.Logging.Scan:Siemens.Simatic.Hmi.BL.Logging.Convert.LogConverter.Convert&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="8/2/2021 12:23:00 PM" Debug="false">
+    <Text>HmiConvert: Starting conversion step &lt;Siemens.Simatic.Hmi.BL.Scripting.Scan:Siemens.Simatic.Hmi.BL.Scripting.Migrations.ScriptReferenceBLConverter.ResolveScriptReferencesDuringConvert&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="8/2/2021 12:23:00 PM" Debug="false">
+    <Text>HmiConvert: Finished conversion step &lt;Siemens.Simatic.Hmi.BL.Scripting.Scan:Siemens.Simatic.Hmi.BL.Scripting.Migrations.ScriptReferenceBLConverter.ResolveScriptReferencesDuringConvert&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="8/2/2021 12:23:00 PM" Debug="false">
+    <Text>HmiConvert: Starting conversion step &lt;Siemens.Simatic.Hmi.Communication.Managers.Scan:Siemens.Simatic.Hmi.Utah.Communication.ConnectionPropertiesRelatedToAlarmConverter.ConvertAlarmPropertiesForConnectionInUpgrade&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="8/2/2021 12:23:00 PM" Debug="false">
+    <Text>HmiConvert: Finished conversion step &lt;Siemens.Simatic.Hmi.Communication.Managers.Scan:Siemens.Simatic.Hmi.Utah.Communication.ConnectionPropertiesRelatedToAlarmConverter.ConvertAlarmPropertiesForConnectionInUpgrade&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="8/2/2021 12:23:00 PM" Debug="false">
+    <Text>HmiConvert: Starting conversion step &lt;Siemens.Simatic.Hmi.Communication.Managers.Scan:Siemens.Simatic.Hmi.Utah.Communication.ConvertV16.ConnectionPasswordConverter.AddPasswordToProtocolValues&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="8/2/2021 12:23:00 PM" Debug="false">
+    <Text>HmiConvert: Finished conversion step &lt;Siemens.Simatic.Hmi.Communication.Managers.Scan:Siemens.Simatic.Hmi.Utah.Communication.ConvertV16.ConnectionPasswordConverter.AddPasswordToProtocolValues&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="8/2/2021 12:23:00 PM" Debug="false">
+    <Text>HmiConvert: Starting conversion step &lt;Siemens.Simatic.Hmi.Alarm.Managers.Scan:Siemens.Simatic.Hmi.Utah.Alarm.AlarmDataConverterWithHmiBl.ConvertTagBitCombinationForILDevices&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="8/2/2021 12:23:00 PM" Debug="false">
+    <Text>HmiConvert: Finished conversion step &lt;Siemens.Simatic.Hmi.Alarm.Managers.Scan:Siemens.Simatic.Hmi.Utah.Alarm.AlarmDataConverterWithHmiBl.ConvertTagBitCombinationForILDevices&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="8/2/2021 12:23:00 PM" Debug="false">
+    <Text>HmiConvert: Starting conversion step &lt;Siemens.Simatic.Hmi.GraphX.GraphXManagers.Scan:Siemens.Simatic.Hmi.Utah.GraphX.PhaseConverter.RepairFontOfGroups&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="8/2/2021 12:23:00 PM" Debug="false">
+    <Text>HmiConvert: Finished conversion step &lt;Siemens.Simatic.Hmi.GraphX.GraphXManagers.Scan:Siemens.Simatic.Hmi.Utah.GraphX.PhaseConverter.RepairFontOfGroups&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="8/2/2021 12:23:00 PM" Debug="false">
+    <Text>HmiConvert: Starting conversion step &lt;Siemens.Simatic.Hmi.Styles.Managers.Scan:Siemens.Simatic.Hmi.Utah.Styles.HmiStyleConverter.RepairStylesAfterConvert&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="8/2/2021 12:23:00 PM" Debug="false">
+    <Text>HmiConvert: Finished conversion step &lt;Siemens.Simatic.Hmi.Styles.Managers.Scan:Siemens.Simatic.Hmi.Utah.Styles.HmiStyleConverter.RepairStylesAfterConvert&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="8/2/2021 12:23:00 PM" Debug="false">
+    <Text>HmiConvert: Finished conversion section.</Text>
+  </Details>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="8/2/2021 12:23:02 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The cross-reference information is being converted." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="8/2/2021 12:23:07 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The cross-reference information was created successfully." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="8/2/2021 12:23:07 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Conversion of the cross-reference information is finished." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <Details ServiceId="80" MessageId="30" Timestamp="8/2/2021 12:23:08 PM" Debug="false">
+    <Text>Package container 'Siemens.Simatic.Lang.S7PSW.V15.1.0.0.NonMandatory' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="8/2/2021 12:23:08 PM" Debug="false">
+    <Text>Package container 'HW.S71200.SM.Digital.DI.MDD_6ES7221-1BF32-0XB0_2.0_14.0.0' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="8/2/2021 12:23:08 PM" Debug="false">
+    <Text>Package container 'HW.DummyPC.CP.MDD_PC-CP-Dummy-IE-With-Six-Ports_V1.0_14.0.0' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="8/2/2021 12:23:08 PM" Debug="false">
+    <Text>Package container 'HW.DummyPC.Device.MDD_PC-Dummy-Device_11.0_14.0.0' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="8/2/2021 12:23:08 PM" Debug="false">
+    <Text>Package container 'Siemens.Simatic.Lang.S7BSW.V15.1.0.0.NonMandatory' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="8/2/2021 12:23:08 PM" Debug="false">
+    <Text>Product version 'Siemens.Simatic.STEP7.Professional:15.01.00.00' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="8/2/2021 12:23:08 PM" Debug="false">
+    <Text>Product version 'Siemens.Simatic.STEP7.SinemaEBasic:14.00.00.00' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="8/2/2021 12:23:08 PM" Debug="false">
+    <Text>Product version 'Siemens.Simatic.HSP.HW.S71200_CPU_Bundle_4.3:01.00.00.00' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="8/2/2021 12:23:08 PM" Debug="false">
+    <Text>Product version 'Siemens.Simatic.HSP.HW.S71200_CPU_4.3:01.00.00.00' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="8/2/2021 12:23:08 PM" Debug="false">
+    <Text>Product version 'Siemens.Simatic.STEP7.Basic:15.01.00.00' was deleted</Text>
+  </Details>
+  <MessageCell ServiceId="Automation-ObjectFrame-Feedbacks" MessageId="ConversionInfoTabProjectSucceeded" MessageClass="Success" Timestamp="8/2/2021 12:23:10 PM">
+    <Number ServiceNumber="80" MessageNumber="34" />
+    <Text FeedbackText="Project 'E:\Lucru_Badea\Vrancart\Programe\Linie_reciclare_paleti\Linie_reciclare_paleti\System\PEData.plf' was successfully upgraded and saved as project 'E:\Lucru_Badea\Vrancart\Programe\Linie_reciclare_paleti\Linie_reciclare_paleti_V16\System\PEData.plf'." />
+    <Help HelpId="-1" HelpFile="" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="8/2/2021 12:23:10 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="FinalCheckRemainingErrors" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <Details ServiceId="80" MessageId="30" Timestamp="8/2/2021 12:23:10 PM" Debug="false">
+    <Text>No error is detected.</Text>
+  </Details>
+</LogFile>
